@@ -1,0 +1,7 @@
+Limpieza de datos basica.
+
+Se identifica valores , nulos , duplicados y datos no estandarizados.
+
+1. Eliminacion de valores nulos
+2. Elimincion de duplicados
+3. Normalizacion de datos
